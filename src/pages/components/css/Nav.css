@@ -1,0 +1,20 @@
+nav .navbar-nav li a{
+    color: white !important;
+    }
+
+li{
+    list-style: none;
+    
+}
+ul{
+    margin: 0;
+    /* padding: 0; */
+}
+
+#title{
+    text-align: center;
+}
+
+.logo{
+    width:60px;
+}
